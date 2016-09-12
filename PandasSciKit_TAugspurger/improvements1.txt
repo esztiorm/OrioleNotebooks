@@ -1,0 +1,2 @@
+1. Importing seaborn as sns is missing (This is why Tim had trouble running it).
+2. My only suggestion would be to use .head() on the dataframes that are printed out, unless there is a particular reason to print out so much.
